@@ -1,0 +1,21 @@
+# ---- PHISHING URLs (from public feeds) ----
+https://raw.githubusercontent.com/Phishing-Database/Phishing.Database/main/phishing-links-ACTIVE-NOW.txt
+https://raw.githubusercontent.com/Phishing-Database/Phishing.Database/main/phishing-links-ACTIVE-TODAY.txt
+https://raw.githubusercontent.com/Phishing-Database/Phishing.Database/main/phishing-domains-NEW-today.txt
+https://raw.githubusercontent.com/Phishing-Database/Phishing.Database/main/phishing-links-NEW-today.txt
+https://raw.githubusercontent.com/romainmarcoux/malicious-domains/main/full-domains-aa.txt
+https://raw.githubusercontent.com/romainmarcoux/malicious-domains/main/full-domains-ab.txt
+http://www.malwaredomainlist.com/hostslist/hosts.txt
+https://urlhaus.abuse.ch/downloads/text/
+
+# ---- BENIGN URLs (legitimate safe websites) ----
+https://google.com
+https://wikipedia.org
+https://stackoverflow.com
+https://github.com
+https://bbc.com
+https://nytimes.com
+https://openai.com
+https://microsoft.com
+https://apple.com
+https://mit.edu
